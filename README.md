@@ -2,7 +2,7 @@
 👋 Hi, I’m @Aravind0511
 👀 I’m interested in coding.
 😎 Learning new Technologies and new way of coding everyday
-📚 I’m currently studying B.E / Computer Science and Engineering
+📚 I’m currently studying B.E / Computer Science and Engineering in Nandha College Of Technology
 📱 Contact : 8807006909
 
 <!---
