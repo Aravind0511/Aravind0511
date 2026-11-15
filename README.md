@@ -161,15 +161,25 @@
 
 <!-- =============== ACTIVITY GRAPH =============== -->
 
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
+
+<!-- =============== CONTRIBUTION SNAKE =============== -->
+
+<h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=F778BA&center=true&vCenter=true&width=500&lines=Keep+Coding;Keep+Improving;Keep+Building"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Every+Contribution+Counts;Keep+Coding+Keep+Growing;Consistency+Creates+Success"/>
 </p>
 
 <p align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind0511&theme=tokyo-night&hide_border=true&area=true"/>
+  <img
+    src="https://raw.githubusercontent.com/Aravind0511/Aravind0511/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </p>
+
+---
+
 
 ---
 
