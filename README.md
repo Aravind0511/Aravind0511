@@ -25,6 +25,7 @@
 
 - 💻 Interested in Full-Stack Development
 - 📱 Exploring Android Application Development
+- 👩‍💻 Interested in Linux OS
 - 🐍 Interested in Python Programming
 - ☕ Practicing Java Programming
 - 🌱 Always learning new technologies
